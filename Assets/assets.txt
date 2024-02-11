@@ -1,1 +1,1 @@
-
+Consists of images directory, style.css file and index.js file.
